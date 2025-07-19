@@ -28,3 +28,4 @@ Live preview and updates via Socket.io
 
 OUTPUT
 
+<img width="1366" height="516" alt="Image" src="https://github.com/user-attachments/assets/36fc315a-ea55-472a-a62a-de57d58305e8" />
